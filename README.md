@@ -98,7 +98,7 @@ Folgende Elemente haben wir bislang kennengelernt:
 |-----------------------|-------------------------------------------------------|-------------------------------------|
 | Elementselektor       | Wählt alle Elemente eines bestimmten Typs aus.        | `p { color: blue; }`                |
 | Klassen-Selektor      | Wählt alle Elemente mit einer bestimmten Klasse aus.  | `.classname { color: red; }`        |
-<!-- | Nachfahren-Selektor   | Wählt alle Elemente innerhalb eines bestimmten Elternteils aus. | `div p { color: green; }`          | -->
+| Nachfahren-Selektor   | Wählt alle Elemente innerhalb eines bestimmten Elternteils aus. | `div p { color: green; }`          |
 <!-- | `:hover`              | Pseudoklasse für den Hover-Zustand eines Elements.    | `a:hover { color: red; }`           | -->
 
 
@@ -114,14 +114,14 @@ Folgende Elemente haben wir bislang kennengelernt:
 | `font-style`      | Legt den Stil der Schrift fest (z.B. kursiv).  | `font-style: italic;`           |
 
 
-<!-- ### Größen, Abstände und Rahmen (Boxmodel)
+### Größen, Abstände und Rahmen (Boxmodel)
 | Eigenschaft | Beschreibung                            | Beispiel              |
 |-------------|-----------------------------------------|-----------------------|
 | `width`     | Setzt die Breite eines Elements.        | `width: 100px;`       |
 | `height`    | Bestimmt die Höhe eines Elements.       | `height: 200px;`      |
 | `margin`    | Bestimmt den Außenabstand eines Elements. | `margin: 20px;`       |
 | `padding`   | Setzt den Innenabstand eines Elements.  | `padding: 15px;`      |
-| `border`    | Definiert die Rahmenlinie eines Elements. | `border: 1px solid black;` | -->
+| `border`    | Definiert die Rahmenlinie eines Elements. | `border: 1px solid black;` |
 
 ## Hintergrund
 | Eigenschaft           | Beschreibung                                          | Beispiel                            |
@@ -133,7 +133,7 @@ Folgende Elemente haben wir bislang kennengelernt:
 | `background-attachment` | Legt fest, ob das Hintergrundbild scrollt oder fixiert ist. | `background-attachment: fixed;` | -->
 
 
-<!-- ## Flex (erste Schritte)
+## Flex (erste Schritte)
 | Eigenschaft      | Beschreibung                                            | Beispiel                        |
 |------------------|---------------------------------------------------------|---------------------------------|
 | `display`        | Legt den flexiblen Container fest und stellt so Kinder nebeneinander.    (Achtung: display wird nicht nur für flex verwendet!)                   | `display: flex;`                |
@@ -142,12 +142,12 @@ Folgende Elemente haben wir bislang kennengelernt:
 | `gap`            | Legt den Abstand zwischen den flexiblen Elementen fest. | `gap: 10px;`                    |
 | `flex-wrap`      | Bestimmt, ob die flexiblen Elemente in einer einzigen Zeile oder in mehreren Zeilen angezeigt werden. | `flex-wrap: wrap;`              |
 
-
+<!-- 
 ## Erweiterte CSS-Effekte
 | Eigenschaft           | Beschreibung                                          | Beispiel                            |
 |-----------------------|-------------------------------------------------------|-------------------------------------|
 | `transition`          | Definiert Übergangseffekte zwischen zwei Zuständen eines Elements. | `transition: all 0.3s ease;`       |
-| `box-shadow`          | Fügt einem Element einen Schatten hinzu.              | `box-shadow: 0px 4px 8px rgba(0,0,0,0.3);` | -->
+| `box-shadow`          | Fügt einem Element einen Schatten hinzu.              | `box-shadow: 0px 4px 8px rgba(0,0,0,0.3);` | --> -->
 
 
 
